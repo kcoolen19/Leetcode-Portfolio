@@ -11,6 +11,6 @@ Java
 SQL
 
 # Titles of Problems Solved 
-(7) Reverse Integer \n
-(75) Sort Colors \n
+(7) Reverse Integer <br />
+(75) Sort Colors <br />
 (178) Rank Scores
