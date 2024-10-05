@@ -1,3 +1,5 @@
+# DIFFICULTY : MEDIUM
+
 # CODE STATISTICS
 Runtime: 342 ms
 Beats: 88.04%
