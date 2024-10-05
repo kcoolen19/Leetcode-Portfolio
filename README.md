@@ -9,3 +9,8 @@ Java
 
 # Other used:
 SQL
+
+# Titles of Problems Solved 
+7. Reverse Integer
+75. Sort Colors
+178. Rank Scores
