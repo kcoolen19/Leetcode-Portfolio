@@ -1,7 +1,9 @@
 # DIFFICULTY : MEDIUM
+Acceptance Rate: 63.5%
 
 # CODE STATISTICS
 Runtime: 342 ms
+
 Beats: 88.04%
 
 # CODE DESCRIPTION
