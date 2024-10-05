@@ -8,4 +8,4 @@ The variety of Leetcode exercises currently ranges from classic programming prog
 Java
 
 # Other used:
-MySQL
+SQL
