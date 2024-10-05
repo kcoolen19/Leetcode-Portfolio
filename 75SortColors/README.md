@@ -2,10 +2,10 @@
 Acceptance Rate: 63.5%
 
 # CODE STATISTICS
-Runtime: 0 ms <b/r>
+Runtime: 0 ms <br />
 Beats: 100%
 
-Memory: 41.58 MB <b/r>
+Memory: 41.58 MB <br />
 Beats: 91.88%
 
 # CODE DESCRIPTION
@@ -18,10 +18,10 @@ You must solve this problem without using the library's sort function.
 
 Example 1:
 
-Input: nums = [2,0,2,1,1,0] <b/r>
-Output: [0,0,1,1,2,2] <b/r>
+Input: nums = [2,0,2,1,1,0] <br />
+Output: [0,0,1,1,2,2] 
 
 Example 2: 
 
-Input: nums = [2,0,1]<b/r>
+Input: nums = [2,0,1]<br />
 Output: [0,1,2]
