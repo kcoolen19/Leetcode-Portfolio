@@ -13,4 +13,5 @@ SQL
 # Titles of Problems Solved 
 (7) Reverse Integer <br />
 (75) Sort Colors <br />
+(153) Find Minimum in Rotated Sorted Array <br > 
 (178) Rank Scores
