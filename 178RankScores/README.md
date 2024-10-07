@@ -6,7 +6,7 @@ Runtime: 342 ms
 
 Beats: 88.04%
 
-# CODE DESCRIPTION
+# PROBLEM DESCRIPTION
 Table: Scores
 
 id is the primary key (column with unique values) for this table.
