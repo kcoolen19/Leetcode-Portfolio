@@ -1,7 +1,7 @@
 # DIFFICULTY: MEDIUM <br />
 Acceptance: 
 
-# CODE STATISCS <br />
+# CODE STATISTICS <br />
 Runtime: 0 ms <br />
 Beats: 100%
 
