@@ -2,9 +2,6 @@
 Acceptance Rate: 63.5%
 
 # CODE STATISTICS
-Runtime: 0 ms <br />
-Beats: 100%
-
 Memory: 41.58 MB <br />
 Beats: 91.88%
 
