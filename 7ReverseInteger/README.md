@@ -1,6 +1,9 @@
 # CODE STATISTICS
 
-Runtime: 84.58%
+Runtime: <br/ >
+Beats: 84.58% <br />
+Memory: <br />
+Beats: 85.83%
 
 # PROBLEM DESCRIPTION
 
