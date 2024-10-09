@@ -2,8 +2,6 @@
 Acceptance: 
 
 # CODE STATISTICS <br />
-Runtime: 0 ms <br />
-Beats: 100%
 
 Memory: 41.65 MB <br />
 Beats: 87.00%
