@@ -6,6 +6,7 @@ The range of Leetcode exercises currently ranges from classic programming progra
 
 # Programming languages used:
 Java
+Python
 
 # Other used:
 SQL
