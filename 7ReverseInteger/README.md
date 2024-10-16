@@ -1,3 +1,5 @@
+# DIFFICULTY: MEDIUM
+
 # CODE STATISTICS
 
 Runtime: <br />
