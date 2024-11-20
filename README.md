@@ -15,4 +15,5 @@ SQL
 (7) Reverse Integer <br />
 (50) Pow(x, n) <br />
 (164) Maximum Gap <br />
-(178) Rank Scores
+(178) Rank Scores <br />
+(442) Find all duplicates in an Array
