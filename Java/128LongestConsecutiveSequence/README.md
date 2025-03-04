@@ -1,11 +1,11 @@
 # DIFFICULTY: MEDIUM
 
 # CODE STATISTICS <br />
-Runtime: 15 ms <br />
-Beats: 96.63%
+Runtime: 29 ms <br />
+Beats: 72.99%
 
-Memory: 57.04 MB <br />
-Beats: 79.64%
+Memory: 67.90 MB <br />
+Beats: 25.93%
 
 # PROBLEM DESCRIPTION
 
